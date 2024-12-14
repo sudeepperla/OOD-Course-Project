@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+C:\projects\Calculator\src\test\java\com\houarizegai\calculator\CalculatorTest.java,com.houarizegai.calculator.CalculatorTest,testCalc/0,calculator,6
+C:\projects\Calculator\src\test\java\com\houarizegai\calculator\CalculatorTest.java,com.houarizegai.calculator.CalculatorTest,setUp/0,calculator,1
+C:\projects\Calculator\src\main\java\com\houarizegai\calculator\Calculator.java,com.houarizegai.calculator.Calculator,repaintFont/0,inText,2
+C:\projects\Calculator\src\main\java\com\houarizegai\calculator\Calculator.java,com.houarizegai.calculator.Calculator,"initBtn/4[java.lang.String,int,int,java.awt.event.ActionListener]",BUTTON_HEIGHT,1
+C:\projects\Calculator\src\main\java\com\houarizegai\calculator\Calculator.java,com.houarizegai.calculator.Calculator,"initBtn/4[java.lang.String,int,int,java.awt.event.ActionListener]",window,1
+C:\projects\Calculator\src\main\java\com\houarizegai\calculator\Calculator.java,com.houarizegai.calculator.Calculator,"initBtn/4[java.lang.String,int,int,java.awt.event.ActionListener]",BUTTON_WIDTH,1
+C:\projects\Calculator\src\main\java\com\houarizegai\calculator\Calculator.java,com.houarizegai.calculator.Calculator,"initCombo/5[java.lang.String[],int,int,java.lang.String,java.util.function.Consumer]",window,1
+C:\projects\Calculator\src\main\java\com\houarizegai\calculator\Calculator.java,com.houarizegai.calculator.Calculator,"calc/3[double,java.lang.String,char]",inText,4
+C:\projects\Calculator\src\main\java\com\houarizegai\calculator\Calculator.java,com.houarizegai.calculator.Calculator,"calc/3[double,java.lang.String,char]",opt,2
